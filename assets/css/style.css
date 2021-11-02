@@ -343,7 +343,7 @@ button {
 }
 
 @media (max-width: 375px) {
-    /*############HEADER###############*/
+    /*#############HEADER###############*/
     header {
         background: url(../img/design-interior-1.jpg);
         background-size: contain;
